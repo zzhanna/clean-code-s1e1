@@ -58,7 +58,9 @@
   outline: none;
 }
 
-.button {
+.button,
+.button-delete,
+.button-edit {
   background: none;
   border: 0px;
   color: #888;
